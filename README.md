@@ -51,6 +51,3 @@ python src/training/train.py
 MIT
 ```
 
----
-
-Paste this as your README, create the repo, and tell me when done! 🚀
