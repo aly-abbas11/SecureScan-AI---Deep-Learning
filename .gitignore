@@ -1,0 +1,12 @@
+data/
+*.pt
+*.zip
+*.csv
+__pycache__/
+.ipynb_checkpoints/
+*.egg-info/
+dist/
+build/
+.env
+checkpoints/
+*.pth
