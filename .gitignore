@@ -1,12 +1,33 @@
+# Data files
 data/
-*.pt
-*.zip
 *.csv
+*.parquet
+*.h5
+
+# Model checkpoints
+*.pt
+*.pth
+checkpoints/
+
+# Python
 __pycache__/
-.ipynb_checkpoints/
+*.pyc
 *.egg-info/
 dist/
 build/
 .env
-checkpoints/
-*.pth
+.venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# IDE
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
