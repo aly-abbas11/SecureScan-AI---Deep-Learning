@@ -306,7 +306,7 @@ Full results, confusion matrices, and training curves in [docs/RESULTS.md](docs/
 ```bibtex
 @misc{securescan-ai,
   title     = {SecureScan AI — Source Code Vulnerability Detection},
-  author    = {Shah, Aly Abbas},
+  author    = { Ali Abbas Shah},
   year      = {2026},
   howpublished = {\url{https://github.com/aly-abbas11/SecureScan-AI---Deep-Learning}},
   note      = {AI335L Deep Learning Lab, Air University Lahore}
