@@ -518,7 +518,7 @@ This project is released under the **MIT License**. See [LICENSE](LICENSE) for f
 
 ```
 Built at NIIT Lahore · AI335L Deep Learning Lab · Spring 2026
-               Ali Abbas Shah 
+Ali Abbas Shah 
 ```
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
